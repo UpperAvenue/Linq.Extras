@@ -1,0 +1,7 @@
+Documentation/
+Linq.Extras/
+Linq.Extras.Tests/
+NDependOut/
+packages/
+*.suo
+
