@@ -5,4 +5,5 @@ NDependOut/
 packages/
 NuGet/
 *.suo
+doc/LastBuild.log
 
