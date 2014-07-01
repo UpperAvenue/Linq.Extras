@@ -113,7 +113,7 @@ complex things that have no equivalent in standard Linq (<code>RankBy</code>, <c
 <a name="tohierarchy" class="anchor" href="#tohierarchy"><span class="octicon octicon-link"></span></a><code>ToHierarchy</code>
 </h3>
 
-<p>Transform a flat sequence of items into a hierarchy. Each node is of type <code>INode&lt;T&gt;</code> and exposes its children and parent.</p>
+<p>Transforms a flat sequence of items into a hierarchy. Each node is of type <code>INode&lt;T&gt;</code> and exposes its children and parent.</p>
 
 <div class="highlight highlight-csharp"><pre><span class="kt">var</span> <span class="n">roots</span> <span class="p">=</span> <span class="n">items</span><span class="p">.</span><span class="n">ToHierarchy</span><span class="p">(</span><span class="n">i</span> <span class="p">=&gt;</span> <span class="n">i</span><span class="p">.</span><span class="n">Id</span><span class="p">,</span> <span class="n">i</span> <span class="p">=&gt;</span> <span class="n">i</span><span class="p">.</span><span class="n">ParentId</span><span class="p">);</span>
 </pre></div>
@@ -122,7 +122,7 @@ complex things that have no equivalent in standard Linq (<code>RankBy</code>, <c
 <a name="flatten" class="anchor" href="#flatten"><span class="octicon octicon-link"></span></a><code>Flatten</code>
 </h3>
 
-<p>Transform a hierarchy of objects to a flat sequence.</p>
+<p>Transforms a hierarchy of objects to a flat sequence.</p>
 
 <div class="highlight highlight-csharp"><pre><span class="kt">var</span> <span class="n">flat</span> <span class="p">=</span> <span class="n">roots</span><span class="p">.</span><span class="n">Flatten</span><span class="p">(</span><span class="n">node</span> <span class="p">=&gt;</span> <span class="n">node</span><span class="p">.</span><span class="n">Children</span><span class="p">,</span> <span class="n">TreeTraversalMode</span><span class="p">.</span><span class="n">DepthFirst</span><span class="p">);</span>
 </pre></div>
