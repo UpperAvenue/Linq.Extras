@@ -161,12 +161,16 @@
   <HelpKINode Title="ThenBy&lt;T, TKey&gt; method" Url="html/M_Linq_Extras_XComparer_ThenBy__2.htm" />
   <HelpKINode Title="ThenByDescending(Of T, TKey) method" Url="html/M_Linq_Extras_XComparer_ThenByDescending__2.htm" />
   <HelpKINode Title="ThenByDescending&lt;T, TKey&gt; method" Url="html/M_Linq_Extras_XComparer_ThenByDescending__2.htm" />
+  <HelpKINode Title="ToArray(Of TSource) method" Url="html/M_Linq_Extras_XEnumerable_ToArray__1.htm" />
+  <HelpKINode Title="ToArray&lt;TSource&gt; method" Url="html/M_Linq_Extras_XEnumerable_ToArray__1.htm" />
   <HelpKINode Title="ToHashSet(Of TSource) method" Url="html/M_Linq_Extras_XEnumerable_ToHashSet__1.htm" />
   <HelpKINode Title="ToHashSet&lt;TSource&gt; method" Url="html/M_Linq_Extras_XEnumerable_ToHashSet__1.htm" />
   <HelpKINode Title="ToHierarchy(Of TSource, TId) method" Url="html/M_Linq_Extras_XEnumerable_ToHierarchy__2.htm" />
   <HelpKINode Title="ToHierarchy&lt;TSource, TId&gt; method" Url="html/M_Linq_Extras_XEnumerable_ToHierarchy__2.htm" />
   <HelpKINode Title="ToLinkedList(Of TSource) method" Url="html/M_Linq_Extras_XEnumerable_ToLinkedList__1.htm" />
   <HelpKINode Title="ToLinkedList&lt;TSource&gt; method" Url="html/M_Linq_Extras_XEnumerable_ToLinkedList__1.htm" />
+  <HelpKINode Title="ToList(Of TSource) method" Url="html/M_Linq_Extras_XEnumerable_ToList__1.htm" />
+  <HelpKINode Title="ToList&lt;TSource&gt; method" Url="html/M_Linq_Extras_XEnumerable_ToList__1.htm" />
   <HelpKINode Title="ToQueue(Of TSource) method" Url="html/M_Linq_Extras_XEnumerable_ToQueue__1.htm" />
   <HelpKINode Title="ToQueue&lt;TSource&gt; method" Url="html/M_Linq_Extras_XEnumerable_ToQueue__1.htm" />
   <HelpKINode Title="ToStack(Of TSource) method" Url="html/M_Linq_Extras_XEnumerable_ToStack__1.htm" />
@@ -277,12 +281,16 @@
   <HelpKINode Title="XEnumerable.SequenceEqualBy(Of TSource, TKey) method" Url="html/M_Linq_Extras_XEnumerable_SequenceEqualBy__2.htm" />
   <HelpKINode Title="XEnumerable.SequenceEqualBy&lt;TSource, TKey&gt; method" Url="html/M_Linq_Extras_XEnumerable_SequenceEqualBy__2.htm" />
   <HelpKINode Title="XEnumerable.SingleOrDefault method" Url="html/Overload_Linq_Extras_XEnumerable_SingleOrDefault.htm" />
+  <HelpKINode Title="XEnumerable.ToArray(Of TSource) method" Url="html/M_Linq_Extras_XEnumerable_ToArray__1.htm" />
+  <HelpKINode Title="XEnumerable.ToArray&lt;TSource&gt; method" Url="html/M_Linq_Extras_XEnumerable_ToArray__1.htm" />
   <HelpKINode Title="XEnumerable.ToHashSet(Of TSource) method" Url="html/M_Linq_Extras_XEnumerable_ToHashSet__1.htm" />
   <HelpKINode Title="XEnumerable.ToHashSet&lt;TSource&gt; method" Url="html/M_Linq_Extras_XEnumerable_ToHashSet__1.htm" />
   <HelpKINode Title="XEnumerable.ToHierarchy(Of TSource, TId) method" Url="html/M_Linq_Extras_XEnumerable_ToHierarchy__2.htm" />
   <HelpKINode Title="XEnumerable.ToHierarchy&lt;TSource, TId&gt; method" Url="html/M_Linq_Extras_XEnumerable_ToHierarchy__2.htm" />
   <HelpKINode Title="XEnumerable.ToLinkedList(Of TSource) method" Url="html/M_Linq_Extras_XEnumerable_ToLinkedList__1.htm" />
   <HelpKINode Title="XEnumerable.ToLinkedList&lt;TSource&gt; method" Url="html/M_Linq_Extras_XEnumerable_ToLinkedList__1.htm" />
+  <HelpKINode Title="XEnumerable.ToList(Of TSource) method" Url="html/M_Linq_Extras_XEnumerable_ToList__1.htm" />
+  <HelpKINode Title="XEnumerable.ToList&lt;TSource&gt; method" Url="html/M_Linq_Extras_XEnumerable_ToList__1.htm" />
   <HelpKINode Title="XEnumerable.ToQueue(Of TSource) method" Url="html/M_Linq_Extras_XEnumerable_ToQueue__1.htm" />
   <HelpKINode Title="XEnumerable.ToQueue&lt;TSource&gt; method" Url="html/M_Linq_Extras_XEnumerable_ToQueue__1.htm" />
   <HelpKINode Title="XEnumerable.ToStack(Of TSource) method" Url="html/M_Linq_Extras_XEnumerable_ToStack__1.htm" />
